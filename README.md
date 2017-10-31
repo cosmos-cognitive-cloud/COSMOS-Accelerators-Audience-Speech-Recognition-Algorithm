@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
 # Add your COSMOS API Keys
-Find the file 'COSMOS-Accelerators-Speech / src / app / services / cognitive-api.service.ts ' and add your own COSMOS API keys.
+Find the file 'COSMOS-Accelerators-Audience-Speech-Recognition-Algorithm / src / app / services / cognitive-api.service.ts ' and add your own COSMOS API keys.
 
 ## Environment Setup
 
@@ -20,7 +20,7 @@ NOTE: On Windows 10--with `npm` or `git` you may have to update your Environment
 
 Now that you have your environment set up, you can finally start working with the sample code.
 
-1. `git clone https://github.com/cosmos-cognitive-cloud/COSMOS-Accelerators-Speech.git`
+1. `git clone https://github.com/cosmos-cognitive-cloud/COSMOS-Accelerators-Audience-Speech-Recognition-Algorithm.git`
 2. Right click the project directory -> select `Open with Code`
 3. Ctrl + Shift + ` to open a terminal window
 4. Type `npm install` to download the project's packages
